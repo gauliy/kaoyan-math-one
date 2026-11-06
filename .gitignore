@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*-settings.json
+math-one-learning/
+learning-data/
+sources/
+views/
+.env
+.env.*
